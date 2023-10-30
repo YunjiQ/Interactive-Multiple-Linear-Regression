@@ -1,4 +1,4 @@
-# Interactive-Multiple-Linear-Regression
+# Interactive Multiple Linear Regression
 This is an R file for an interactive multiple linear regression model with the ggplot2 economics dataset.
 
 ## Usage
